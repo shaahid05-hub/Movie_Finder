@@ -15,9 +15,9 @@ function Body(props) {
 
             <div className=''>
                 <div className=' container bg-body-dark pt-5'>
-                <p className='fs-1 fw-bolder text-dark'>Discover Movies   
+                <p className='fs-1 fw-bolder text-dark'>Discover Movies     
                     <br />
-                    <span>Worth Watching</span>
+                    <span>Worth Watching</span>   
                 </p>
                 {/* <p className='fs-1 fw-bolder text-dark'>Worth Watching</p> */}
 
