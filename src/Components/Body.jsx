@@ -6,7 +6,7 @@ import Carousel from './Carousel'
 
 function Body(props) {
 
-    // let [page,setPage] = useState(false)
+    // let [page,setPage] = useState(false)    
 
     return (
         <>
@@ -15,7 +15,7 @@ function Body(props) {
 
             <div className=''>
                 <div className=' container bg-body-dark pt-5'>
-                <p className='fs-1 fw-bolder text-dark'>Discover Movies
+                <p className='fs-1 fw-bolder text-dark'>Discover Movies   
                     <br />
                     <span>Worth Watching</span>
                 </p>
