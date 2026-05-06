@@ -1,0 +1,12 @@
+.width{
+    width: 100%;
+}
+.width1{
+    width: 30%;
+    display: flex;
+    justify-content: end;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
