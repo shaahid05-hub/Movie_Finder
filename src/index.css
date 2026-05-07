@@ -1,0 +1,17 @@
+html,body{
+    overflow-x: hidden;
+}
+.hero{
+    width: 100%;
+    background-image: url('./assets/Images/hero.png');
+    background-size: cover;
+    height: 700px;
+}
+
+.image{
+    height: 750px;
+}
+
+.carousel-fade .carousel-item {
+  /* transition: opacity 1s ease-in-out; */
+}
